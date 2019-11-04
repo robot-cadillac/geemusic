@@ -18,7 +18,7 @@ help_text: "Hier sind einige Dinge, die du sagen kannst: \
             Spiele ein Radio für Weezer, \
             Starte die Playlist Dance Party, \
             und spiele etwas Musik, \
-            Natürlich kannst du auch Weiter, Zurück, Zufallswiedergabe, und andere \
+            Natürlich kannst du auch Weiter, Zurück, Zufallswiedergabe, und andere \
             Steuerbefehle sagen oder, Stop, wenn du fertig bist."
 help_prompt: "Sag zum Beispiel, spiele Musik von A Tribe Called Quest."
 play_promoted_songs_no_songs: "Entschuldigung, ich konnte keine Lieder finden, die du magst."
@@ -37,10 +37,10 @@ play_IFL_radio_text: "Hier ist Musik von deinem persönlichen Radiosender."
 play_IFL_radio_title: "Hier ist Zufallsradio."
 play_different_album_no_track: "Entschuldigung, gerade läuft kein bestimmtes Album."
 play_library_text: "Hier ist Musik aus deiner Bibliothek."
-not_supported_without_store: "Sorry, this feature requires a subscription to Google Music"  # TODO: translate
+not_supported_without_store: "Für diese funktion ist ein abonnement für Google Music erforderlich"
 
 # playback.py
-indexing: "Indexing your Library"  # TODO: translate"
+indexing: "Indizierung Ihrer Bibliothek"
 stopped: "Wiedergabe bei {{ offset }} gestoppt."
 started: "Wiedergabe bei {{ offset }} gestartet."
 start_over: "Es sind keine Lieder eingereiht."
